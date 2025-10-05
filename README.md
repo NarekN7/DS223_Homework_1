@@ -12,7 +12,6 @@ This repository contains a complete Bass diffusion analysis for the **Dreame Poc
 .
 ├─ data/
 │  ├─ Hair-Dryer.xlsx         # U.S. retail unit sales of hair dryers (2010–2018), in millions
-│  └─ dataset1.csv            # Generated forecast table (Year, New Adopters, Cumulative Adopters)
 ├─ report/
 │  ├─ report_source.Rmd       # Main R Markdown analysis
 │  ├─ report.pdf              # Compiled PDF (some viewers show corrupted images; see HTML below)
