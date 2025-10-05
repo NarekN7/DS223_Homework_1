@@ -17,11 +17,8 @@ This repository contains a complete Bass diffusion analysis for the **Dreame Poc
 │  ├─ report_source.Rmd       # Main R Markdown analysis
 │  ├─ report.pdf              # Compiled PDF (some viewers show corrupted images; see HTML below)
 │  └─ report_source.html      # Compiled HTML (fallback if PDF images are not visible)
-├─ sources/
-│  └─ Sources.pdf             # APA-style reference list supporting the analysis
-├─ script1.R                  # (optional) Estimation helpers
-├─ script2.R                  # (optional) Forecasting & plotting helpers
-├─ helper_functions.R         # (optional) Shared utilities
+├─ references/
+│  └─ references.pdf             # APA-style reference list supporting the analysis
 └─ README.md
 ```
 
